@@ -66,6 +66,18 @@ class DroidKali:
 
 ---
 
+### 💬 Quote
+
+<div align="center">
+
+> 🔓 *"Security is a process, not a product."*
+
+> ⚡ *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -75,18 +87,6 @@ class DroidKali:
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DroidKali&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DroidKali&theme=radical)
-
-</div>
-
----
-
-### 💬 Quote
-
-<div align="center">
-
-> 🔓 *"Security is a process, not a product."*
-
-> ⚡ *"Talk is cheap. Show me the code."* — Linus Torvalds
 
 </div>
 
