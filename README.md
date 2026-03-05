@@ -66,6 +66,18 @@ class DroidKali:
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DroidKali&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DroidKali&layout=compact&theme=radical)
+
+</div>
+
+---
+
 ### 💬 Quote
 
 <div align="center">
