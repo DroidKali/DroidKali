@@ -4,7 +4,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DroidKali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DroidKali)
 [![Followers](https://img.shields.io/github/followers/DroidKali?style=for-the-badge&logo=github&color=24292f)](https://github.com/DroidKali?tab=followers)
-![Visitors](https://komarev.com/ghpvc/?username=DroidKali&style=for-the-badge&color=0e75b6)
 
 ---
 
@@ -62,30 +61,6 @@ class DroidKali:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DroidKali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroidKali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DroidKali&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DroidKali&theme=radical&no-frame=true&column=3)
 
 </div>
 
