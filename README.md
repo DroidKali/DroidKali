@@ -84,9 +84,9 @@ class DroidKali:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DroidKali&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DroidKali&layout=compact&theme=radical)
-
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DroidKali&theme=radical)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DroidKali&layout=compact&theme=radical)
 
 </div>
 
