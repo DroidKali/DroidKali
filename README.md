@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![GitHub Banner](https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FABSphreak%2FABSphreak%2Fmaster%2Fassets%2Fgithub-banner-1.jpg&mask=corner-radius:15)
-
 [![GitHub](https://img.shields.io/badge/GitHub-DroidKali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DroidKali)
 [![Followers](https://img.shields.io/github/followers/DroidKali?style=for-the-badge&logo=github&color=24292f)](https://github.com/DroidKali?tab=followers)
 ![Visitors](https://komarev.com/ghpvc/?username=DroidKali&style=for-the-badge&color=0e75b6)
@@ -87,7 +85,7 @@ class DroidKali:
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DroidKali&theme=radical&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DroidKali&theme=radical&no-frame=true&column=3)
 
 </div>
 
@@ -106,8 +104,6 @@ class DroidKali:
 ---
 
 <div align="center">
-
-![Bottom Border](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=10&section=footer)
 
 **👾 Always Learning, Always Hacking 👾**
 
